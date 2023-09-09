@@ -1,0 +1,10 @@
+make a rectangle and when we move mouse on that rectangle on the left side we want to gradually change the color of that rectangle to red and when we move mouse to the right side we want to change the color to blue.
+
+
+1. check when mouse comes on rectangle and its location life left right whatever
+
+2.now calculate are we left or right from center
+
+3. now calculate how left or right are we from center and make the color inensitty as per that
+
+color is in rbg with 255 255 255 
